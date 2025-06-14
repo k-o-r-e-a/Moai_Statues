@@ -1,4 +1,94 @@
-## Aptos Build Mint Page Template
+
+## Aptos Build Mint Page
+### Moai Statues https://moai-statues.vercel.app/
+From the depths of the ocean to the peaks of the mountains, the Moai statues stand tall and proud, their secrets waiting to be discovered. Let your imagination soar with this prompt, featuring unique renderings and diverse styles that will transport you to a world of wonder and awe.
+#0x9026fe3e07553e12fbb15b6e188e6385f1f061dd3fcac7cf0503c82e4c106a0e
+#0xea5dc0ddc0b53a9004fefc85f804ab34641dc2cc431c8435185754d88423cded
+<div align="center">
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_bg_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+  <br>
+  <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_01.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_02.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_03.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_04.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_05.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_06.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_07.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_08.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_09.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_10.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_11.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_12.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_13.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_14.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_15.jpg" alt="Biblical entrance" width="150">
+  </a>
+   <a href="https://moai-statues.vercel.app/">
+    <img src="https://github.com/k-o-r-e-a/Moai_Statues/blob/main/frontend/assets/placeholders/Moai_Statues_16.jpg" alt="Biblical entrance" width="150">
+  </a>
+</div>
+
+
+
+
 
 This template provides a beautiful pre-made UI for an NFT minting page so that users can mint NFTs from a collection created in Aptos Build.
 
