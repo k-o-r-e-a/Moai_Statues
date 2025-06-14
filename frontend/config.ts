@@ -1,6 +1,21 @@
-import Placeholder1 from "@/assets/placeholders/bear-1.png";
-import Placeholder2 from "@/assets/placeholders/bear-2.png";
-import Placeholder3 from "@/assets/placeholders/bear-3.png";
+import Placeholder1 from "@/assets/placeholders/Moai_Statues_01.jpg";
+import Placeholder2 from "@/assets/placeholders/Moai_Statues_02.jpg";
+import Placeholder3 from "@/assets/placeholders/Moai_Statues_03.jpg";
+import Placeholder4 from "@/assets/placeholders/Moai_Statues_04.jpg";
+import Placeholder5 from "@/assets/placeholders/Moai_Statues_05.jpg";
+import Placeholder6 from "@/assets/placeholders/Moai_Statues_06.jpg";
+import Placeholder7 from "@/assets/placeholders/Moai_Statues_07.jpg";
+import Placeholder8 from "@/assets/placeholders/Moai_Statues_08.jpg";
+import Placeholder9 from "@/assets/placeholders/Moai_Statues_09.jpg";
+import Placeholder10 from "@/assets/placeholders/Moai_Statues_10.jpg";
+import Placeholder11 from "@/assets/placeholders/Moai_Statues_11.jpg";
+import Placeholder12 from "@/assets/placeholders/Moai_Statues_12.jpg";
+import Placeholder13 from "@/assets/placeholders/Moai_Statues_13.jpg";
+import Placeholder14 from "@/assets/placeholders/Moai_Statues_14.jpg";
+import Placeholder15 from "@/assets/placeholders/Moai_Statues_15.jpg";
+import Placeholder16 from "@/assets/placeholders/Moai_Statues_16.jpg";
+
+
 import { COLLECTION_ADDRESS } from "./constants";
 
 export const config: Config = {
@@ -14,8 +29,8 @@ export const config: Config = {
   },
 
   defaultCollection: {
-    name: "Lorem Ipsum",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue convallis augue in pharetra.",
+    name: "Moai Statues Airdrop",
+    description: "From the depths of the ocean to the peaks of the mountains, the Moai statues stand tall and proud, their secrets waiting to be discovered. Let your imagination soar with this prompt, featuring unique renderings and diverse styles that will transport you to a world of wonder and awe.",
     image: Placeholder1,
   },
 
@@ -23,35 +38,143 @@ export const config: Config = {
     title: "Our Story",
     subTitle: "Proin lorem",
     description:
-      "Phasellus pellentesque malesuada pretium. Vestibulum sed justo at velit rhoncus finibus nec quis urna. Aenean rutrum congue tincidunt. Praesent id urna quis risus sodales feugiat vitae quis orci. Proin tincidunt eu nisi quis sollicitudin. Nulla facilisis eget tellus quis fermentum. Nunc vel neque at erat dictum tempus. Aliquam in mollis lacus, non fringilla lacus. Nunc blandit iaculis ante vitae pulvinar.",
+      "From the depths of the ocean to the peaks of the mountains, the Moai statues stand tall and proud, their secrets waiting to be discovered. Let your imagination soar with this prompt, featuring unique renderings and diverse styles that will transport you to a world of wonder and awe.",
     discordLink: "https://discord.com",
-    images: [Placeholder1, Placeholder2, Placeholder3],
+    images: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11, Placeholder12, Placeholder13, Placeholder14, Placeholder15, Placeholder16],
   },
 
   ourTeam: {
     title: "Our Team",
     members: [
       {
-        name: "Mepoti",
+        name: "#01 #Moai Statues",
         role: "Aliquip Esse",
         img: Placeholder1,
         socials: {
           twitter: "https://twitter.com",
         },
       },
-      {
-        name: "Zucker",
-        role: "Sunt Duis",
+     {
+        name: "#02 #Moai Statues",
+        role: "Aliquip Esse",
         img: Placeholder2,
+        socials: {
+          twitter: "https://twitter.com",
+        },
       },
-      {
-        name: "SimonT",
-        role: "Ullamco Tempor",
+        {
+        name: "#03 #Moai Statues",
+        role: "Aliquip Esse",
         img: Placeholder3,
         socials: {
           twitter: "https://twitter.com",
         },
       },
+        {
+        name: "#04 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder4,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#05 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder5,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#06 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder6,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#07 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder7,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#08 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder8,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#09 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder9,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#10 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder10,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#11 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder11,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#12 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder12,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#13 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder13,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#14 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder14,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#15 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder15,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "#16 #Moai Statues",
+        role: "Aliquip Esse",
+        img: Placeholder16,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+      
     ],
   },
 
@@ -60,24 +183,15 @@ export const config: Config = {
 
     questions: [
       {
-        title: "Id Quis Mollit Est",
+        title: "#Airdrop - Moai Statues",
         description:
-          "Exercitation tempor id ex aute duis laboris dolore est elit fugiat consequat exercitation ullamco. Labore sint laborum anim sunt labore commodo proident adipisicing minim eu duis velit. Est ipsum nisi labore ullamco velit laborum qui in. Fugiat cillum tempor proident occaecat do ipsum Lorem eu labore duis do ex anim. Ullamco incididunt irure officia ex reprehenderit. Voluptate tempor reprehenderit elit exercitation consequat labore ipsum duis reprehenderit. Ex qui aliqua ex aute sunt.",
+          "From the depths of the ocean to the peaks of the mountains, the Moai statues stand tall and proud, their secrets waiting to be discovered. Let your imagination soar with this prompt, featuring unique renderings and diverse styles that will transport you to a world of wonder and awe.",
       },
-      {
-        title: "Magna Nostrud Eu Nostrud Occaecat",
-        description:
-          "Et aute duis culpa anim sint pariatur ipsum et irure aliquip eu velit. Aliquip Lorem nostrud adipisicing deserunt sit ut aliqua enim amet velit fugiat cillum quis ut. Tempor consequat adipisicing laborum ut ipsum ut elit ad amet qui Lorem ea commodo culpa. Commodo adipisicing sit sint aute deserunt. Proident enim proident labore. Aliquip minim aliqua proident mollit fugiat ipsum qui duis deserunt ea duis. Deserunt anim incididunt irure commodo sint adipisicing magna dolor excepteur.",
-      },
-      {
-        title: "In Amet Mollit Tempor Dolor Consequat Commodo",
-        description:
-          "Fugiat fugiat dolor id aute labore esse incididunt. Reprehenderit nostrud ad elit enim occaecat. Sunt non ex veniam officia dolore deserunt consequat. Excepteur voluptate cillum fugiat reprehenderit consequat eu eu amet dolor enim tempor.",
-      },
+  
     ],
   },
 
-  nftBanner: [Placeholder1, Placeholder2, Placeholder3],
+  nftBanner: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11, Placeholder12, Placeholder13, Placeholder14, Placeholder15, Placeholder16],
 };
 
 export interface Config {
